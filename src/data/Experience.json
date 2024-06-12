@@ -1,0 +1,23 @@
+[
+ 
+  {
+    "title": "Software Developer ",
+    "organization": "Infosys",
+    "liveUrl": "https://www.infosys.com/",
+    "duration": "November 2021 - August 2023",
+    "description": [
+      "Supervised a team of 3, which was responsible for rollout activities, client demos, and training sessions for a major US company",
+      "Designed a process for incremental migration using the front end for the end users. This process not only saved a lot of time but also generated a lot of revenue for Infosys LTD",
+      "Generated User interface screens using JSP, JavaScript, CSS, HTML",
+      "Work experiences with team to resolve bug-fixes and assist in relevant testing through various environments.Determined the structure and design of web pages based on user requirement and balanced functionally",
+      "Analysis, design, development, customizations, implementation and deployment of mobile and web applications for client using react .js",
+      "Configured Web Logic 8.1 and Web Sphere Application Server (WAS) servers for connection pooling and Data Sources etc.Implemented Struts framework based on the Model View Controller design pattern; Used Microsoft Visual Source Safe (VSS) for version control.",
+      "Worked on performance tuning, data loading, migration, and production support. Maintained constant communications with the client throughout the project to help identify and clarify businessrequirements. Received star performer award for excellence in performance. Successfully"
+
+    ],
+    "logo": "infosys-logo",
+    "techStack": ["JavaScript","HTML","CSS"]
+  }
+  
+ 
+]

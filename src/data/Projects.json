@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Southern California Edison Web Application",
+     "description": 
+      "The main goal of the Southern California Edison (SCE) web application was to improve user experience by offering convenient access to billing details, service requests, and data on energy usage (Southern California Edison, 2024). The project's goal was to create dynamic and interesting user interfaces by utilizing React.js. Developing reusable parts and libraries was a major priority to guarantee effectiveness and uniformity. The project focused on creating web pages with a balance between functionality and aesthetics, considering extensive user requirements. The project also required extensive build, deployment, and configuration procedures to guarantee a dependable and stable platform for users.",
+   
+    "liveUrl": "https://www.sce.com/",
+    "techStack": ["React"]
+  },
+  {
+    "title": "SQLite Database Implementation and Management",
+   
+    "liveUrl": null,
+    "techStack": ["MySQL"]
+  },
+  {
+    "title": "Loan Approval Prediction System",
+   
+    "liveUrl": null,
+    "techStack": ["Python"]
+  }
+
+ 
+ 
+]
